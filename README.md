@@ -3,15 +3,15 @@
 ### *Intelligent Learning Management & Real-Time Collaboration Platform*
 
 <p align="center">
-  <img src="public/images/logo/logo.png" alt="EduTrace Logo" width="220px" />
+  <img src="public/images/logo/edutraceLogo.png" alt="EduTrace Logo" width="220px" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-16.2-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-19.0-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-5.0-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Docker-Compatible-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Next.js-16.2-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-19.0-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-5.0-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Docker-Compatible-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
 </p>
 
 EduTrace UI is a premium, highly responsive next-generation learning hub Dashboard built on Next.js 16 (App Router) and React 19. It integrates low-latency virtual classrooms via WebRTC, automated study tracking, structured assessment workflows, and interactive charts to deliver a comprehensive dashboard experience.
